@@ -1,0 +1,2 @@
+Producto1,Descripción1,10.0
+Producto2,Descripción2,20.5
